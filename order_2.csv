@@ -1,0 +1,9 @@
+date,user_id,order_id,product_id,no_units,price,shipping_id,region
+2017-08-16,1,202gfd,93,100,46,87643edrf,south
+2017-08-16,2,202plm,93,50,46,87644edrf,north
+2017-08-16,3,2020gxd,10,208,77,87645edrf,east
+2017-08-16,4,2020zkl,35,80,45,87646edrf,west
+2017-08-16,5,2020-gfm,74,200,36,87647edrf,south
+2017-08-16,6,2020-lzc,88,210,32,87648edrf,northwest
+2017-08-16,7,2020-pkm,88,125,32,87649edrf,southwest
+2017-08-16,7,2020-oiy,88,354,32,87649edrf,southwest
